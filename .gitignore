@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Build output
+dist/
+
+**/.cache/
+**/.temp/
+
